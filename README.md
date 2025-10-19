@@ -9,4 +9,4 @@
 Click the "New Quote" button to display a new quote.
 
 ## Live Demo
-[View it on GitHub Pages](https://yourusername.github.io/jsproject-quote-generator/)
+[View it on GitHub Pages](file:///C:/Users/vcale/OneDrive/Desktop/Food%20Review%20Proj/Eat%20Webpage/Word%20Gen/one.html)
